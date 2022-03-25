@@ -1,1 +1,1 @@
-This is MIT license.
+This is MIT license. from the course : Build an app with ASPNET Core and Angular from scratch
