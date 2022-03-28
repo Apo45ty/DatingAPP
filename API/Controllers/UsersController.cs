@@ -17,6 +17,7 @@ namespace API.Controllers
         {
             this.Context = context;
         }
+        
         [HttpGet]
         public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
         { 
